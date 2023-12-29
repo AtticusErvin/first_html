@@ -3,15 +3,15 @@ body{
     background-color: #c4c4c4;
 }
 header{
-    background:#910F1B;
-    color:grey;
+    background:grey;
+    color:#910F1B;
     align-items:center;
     display:flex;
     flex-direction: column;
 }
 nav{
-    background: #910F1B;
-    color:grey;
+    background: grey;
+    color:#910F1B;
     align-items:center;
     display:flex;
     flex-direction: column;
