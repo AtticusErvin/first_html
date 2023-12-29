@@ -9,7 +9,7 @@ header{
     display:flex;
     flex-direction: column;
 }
-<nav{
+nav{
     background: white;
     color:red;
     align-items:center;
@@ -18,5 +18,5 @@ header{
     padding: 10px;
     justify-content: space-between;
     position:sticky;
-    top:0px;
+    top: 0px;
 }
