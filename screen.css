@@ -39,3 +39,7 @@ a:link{
 a:visited{
     color:white;
 }
+img{
+    padding: 10px;
+    margin:10px;
+}
